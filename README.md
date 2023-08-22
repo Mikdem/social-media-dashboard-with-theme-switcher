@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution](https://github.com/Mikdem/social-media-dashboard-with-theme-switcher.git)
-- Live Site URL: [Live URL](https://your-live-site-url.com)
+- Live Site URL: [Live URL](https://social-media-dashboard-theme-mikdem.netlify.app/)
 
 ## My process
 
